@@ -16,8 +16,8 @@ You type something like *"I loved Breaking Bad"* or *"I just finished Attack on 
 
 | File | What it is |
 |---|---|
-| `kdrama_recommender_app.py` | The Streamlit chat app |
-| `kdrama_recommender_notebook.ipynb` | Notebook with code walkthrough and experiments |
+| `kdrama_app.py` | The Streamlit chat app |
+| `kdrama_GPT_API.ipynb` | Notebook with code walkthrough and experiments |
 | `.env` | Your API key (not shared) |
 
 ---
